@@ -256,7 +256,7 @@ async function loadQuestions() {
     document.getElementById("search-meta").textContent = `Showing all ${allQuestions.length} questions`;
     renderList(allQuestions);
   } catch (err) {
-    statusEl.textContent = "Failed to load quep.json: " + err.message;
+    statusEl.textContent = "Failed to load green.json: " + err.message;
   }
 }
 
