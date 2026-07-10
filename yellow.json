@@ -1,0 +1,2027 @@
+
+  {
+  "questions": [
+  {
+    "id": 66,
+    "text": "Series:\n9, 16, 25, 36, ?",
+    "options": [
+      "48",
+      "50",
+      "49",
+      "45"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.55,
+      "8": 0.34,
+      "9": 0.18,
+      "10": 0.09,
+      "11": 0.05,
+      "12": 0.03
+    }
+  },
+  
+  {
+    "id": 168,
+    "text": "Complete:\n2, 3, 5, 7, 11, ?",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "15"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.62,
+      "7": 0.38,
+      "8": 0.2,
+      "9": 0.09,
+      "10": 0.05,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 210,
+    "text": "If 'BOMBAY' is 'CNNBCZ' then 'DELHI' is?",
+    "options": [
+      "EFMIJ",
+      "EFMIH",
+      "EGMJI",
+      "EFMIK"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.7,
+      "7": 0.48,
+      "8": 0.26,
+      "9": 0.12,
+      "10": 0.06,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 308,
+    "text": "If 'GOLD' is 'HOME' then 'COME' is?",
+    "options": [
+      "DONE",
+      "BOME",
+      "DOME",
+      "CONE"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.7,
+      "7": 0.48,
+      "8": 0.26,
+      "9": 0.12,
+      "10": 0.06,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 427,
+    "text": "Fixed pulley advantage?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct": 2,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 494,
+    "text": "Venerate : Worship : : Extol : ?",
+    "options": [
+      "Glorify",
+      "Homage",
+      "Compliment",
+      "Recommend"
+    ],
+    "correct": 0,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 10",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.82,
+      "11": 0.65,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 500,
+    "text": "Nurture : Neglect : : Denigrate : ?",
+    "options": [
+      "Reveal",
+      "Extol",
+      "Recognize",
+      "Calumniate"
+    ],
+    "correct": 1,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 10",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.82,
+      "11": 0.65,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 509,
+    "text": "Tile : Mosaic :: Knot : ?",
+    "options": [
+      "Embroidery",
+      "Abacus",
+      "Macrame",
+      "Easel"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.84,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.3,
+      "11": 0.18,
+      "12": 0.1
+    }
+  },
+  {
+    "id": 540,
+    "text": "Fog : Visibility : : AIDS : ?",
+    "options": [
+      "Health",
+      "Resistance",
+      "Virus",
+      "Death"
+    ],
+    "correct": 0,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 551,
+    "text": "Tea:Cup::Tobacco:?",
+    "options": [
+      "Leaves",
+      "Hookah",
+      "Toxin",
+      "Cheroot"
+    ],
+    "correct": 3,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.55,
+      "8": 0.34,
+      "9": 0.18,
+      "10": 0.09,
+      "11": 0.05,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 556,
+    "text": "Atom:Matter::Particle:?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Molecule",
+      "Dust"
+    ],
+    "correct": 3,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.55,
+      "8": 0.34,
+      "9": 0.18,
+      "10": 0.09,
+      "11": 0.05,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 565,
+    "text": "Imprison:Jail::Exile:?",
+    "options": [
+      "Country",
+      "Depart",
+      "Banish",
+      "Punishment"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 9",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.68,
+      "10": 0.46,
+      "11": 0.28,
+      "12": 0.15
+    }
+  },
+  {
+    "id": 578,
+    "text": "Foundation:Edifice::Constitution:?",
+    "options": [
+      "Government",
+      "State",
+      "Nation",
+      "Cabinet"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.84,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.3,
+      "11": 0.18,
+      "12": 0.1
+    }
+  },
+  {
+    "id": 600,
+    "text": "Primo : Music : : Suburb : ?",
+    "options": [
+      "Province",
+      "Country",
+      "State",
+      "City"
+    ],
+    "correct": 3,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.84,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.3,
+      "11": 0.18,
+      "12": 0.1
+    }
+  },
+  {
+    "id": 638,
+    "text": "Receptionist : Office : : Hostess : ?",
+    "options": [
+      "Aircraft",
+      "Crew",
+      "Hospital",
+      "Airport"
+    ],
+    "correct": 0,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.84,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.3,
+      "11": 0.18,
+      "12": 0.1
+    }
+  },
+  {
+    "id": 644,
+    "text": "Wax : Grease : : Milk : ?",
+    "options": [
+      "Drink",
+      "Ghee",
+      "Curd",
+      "Protein"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 649,
+    "text": "Dancer : Stage : : Minister : ?",
+    "options": [
+      "Pulpit",
+      "Assembly",
+      "Parliament",
+      "State"
+    ],
+    "correct": 0,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.55,
+      "8": 0.34,
+      "9": 0.18,
+      "10": 0.09,
+      "11": 0.05,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 652,
+    "text": "Hooke : Cells : : Mulder : ?",
+    "options": [
+      "Carbohydrates",
+      "Minerals",
+      "Vitamins",
+      "Proteins"
+    ],
+    "correct": 3,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 674,
+    "text": "Naphthalene : Woollen clothes :: Antibiotic : ?",
+    "options": [
+      "Germs",
+      "Immunity",
+      "Diseases",
+      "Body"
+    ],
+    "correct": 3,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 10",
+    "difficulty": {
+      "6": 0.97,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.82,
+      "11": 0.65,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 696,
+    "text": "Bald : Blond : : Barren : ?",
+    "options": [
+      "Vegetation",
+      "Farm",
+      "Fertile",
+      "Inhabited"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 9",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.68,
+      "10": 0.46,
+      "11": 0.28,
+      "12": 0.15
+    }
+  },
+  {
+    "id": 718,
+    "text": "Find the odd one out:\nPony | Kitten | Pig | Larva",
+    "options": [
+      "Pony",
+      "Kitten",
+      "Pig",
+      "Larva"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 722,
+    "text": "Find the odd one out:\nOde | Lyric | Sonnet | Limerick | Epic",
+    "options": [
+      "Ode",
+      "Lyric",
+      "Sonnet",
+      "Limerick",
+      "Epic"
+    ],
+    "correct": 3,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 724,
+    "text": "Find the odd one out:\nCow | Deer | Donkey | Rhinoceros | Goat",
+    "options": [
+      "Cow",
+      "Deer",
+      "Donkey",
+      "Rhinoceros",
+      "Goat"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 838,
+    "text": "Arrange in correct logical order:\nA: With cement, people can build dams, foundations, bridges and high-rise buildings.\nB: For this reason, cement is used in many forms of construction.\nC: Cement is one of the most versatile binders known to people.\nD: It is also used to make building blocks, roofing tiles and many other products.",
+    "options": [
+      "A\u2192B\u2192C\u2192D",
+      "C\u2192D\u2192A\u2192B",
+      "C\u2192A\u2192D\u2192B",
+      "B\u2192D\u2192A\u2192C"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.91,
+      "8": 0.82,
+      "9": 0.64,
+      "10": 0.41,
+      "11": 0.21,
+      "12": 0.1
+    }
+  },
+  {
+    "id": 861,
+    "text": "Identify the grammatically correct sentence:",
+    "options": [
+      "She loved to travel so she could know people from all around the world.",
+      "She loved to travel so she could get to know people from round the world.",
+      "She loved to travel so she could knew about people from around the world.",
+      "She loved to travel so she could get knowing people from round the world."
+    ],
+    "correct": 1,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 873,
+    "text": "Identify the grammatically correct sentence:",
+    "options": [
+      "When she asked to borrow my computer, I replied yes I\u2019m afraid so.",
+      "When she asked to borrow my computer, I replied I\u2019m afraid so.",
+      "When she asked to borrow my computer, I replied I\u2019m afraid not.",
+      "When she asked to borrow my computer, I replied I\u2019m afraid no."
+    ],
+    "correct": 2,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 892,
+    "text": "Identify the grammatically correct sentence:",
+    "options": [
+      "The firm is a major player in the logistics industry to play a significant role in keeping our supermarket shelves well stocked.",
+      "The firm is a major player in the logistics industry so it plays a significant role in keeping our supermarket shelves well stocked.",
+      "The firm is a major player in the logistics industry with it playing a significant role in keeping our supermarket shelves well stocked.",
+      "The firm is a major player in the logistics industry because it plays a significant role in keeping our supermarket shelves well stocked."
+    ],
+    "correct": 1,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 909,
+    "text": "Identify the grammatically correct sentence:",
+    "options": [
+      "The collected datum is proving its possible after all.",
+      "The collected datum is proving it\u2019s possible after all.",
+      "The collected datum are proving it\u2019s possible after all.",
+      "The collected datum are proving its possible after all."
+    ],
+    "correct": 1,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 944,
+    "text": "parentheses is to enclosed information as: gerund is to:",
+    "options": [
+      "smoking",
+      "cigarette",
+      "health risk",
+      "melancholy"
+    ],
+    "correct": 0,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.97,
+      "7": 0.96,
+      "8": 0.93,
+      "9": 0.87,
+      "10": 0.72,
+      "11": 0.5,
+      "12": 0.28
+    }
+  },
+  {
+    "id": 1014,
+    "text": "Using a block and tackle with five rope segments supporting a 300-pound weight, approximately how much force do you need to apply?",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "100",
+      "300"
+    ],
+    "correct": 1,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 1016,
+    "text": "What type of screwdriver should you use with a cross-slot screw?",
+    "options": [
+      "Slotted",
+      "Furniture",
+      "Phillips",
+      "Automotive"
+    ],
+    "correct": 2,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1022,
+    "text": "Which of these pliers can lock onto a part and stay locked without hand pressure?",
+    "options": [
+      "Slip-joint pliers",
+      "Vise-grip pliers",
+      "Channel-lock pliers",
+      "Needle-nose pliers"
+    ],
+    "correct": 1,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1028,
+    "text": "The girl wants to swing fast. On which swing can she go faster (two swings of different rope lengths)?",
+    "options": [
+      "Swing A (longer rope)",
+      "Swing B (shorter rope)",
+      "No difference"
+    ],
+    "correct": 1,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1036,
+    "text": "To cut a curve at the end of a flat piece of wood it is best to use a:",
+    "options": [
+      "Wood saw",
+      "Saber saw",
+      "Hacksaw",
+      "Circular saw"
+    ],
+    "correct": 1,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1038,
+    "text": "To tighten a nut in a narrow space where a standard wrench won't fit, you would use a:",
+    "options": [
+      "Slip-joint pliers",
+      "Needle-nose pliers",
+      "Box wrench",
+      "Combination wrench"
+    ],
+    "correct": 2,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1043,
+    "text": "Which tool is specifically designed to remove a stripped screw that a screwdriver cannot grip?",
+    "options": [
+      "Channel-lock pliers",
+      "Needle-nose pliers",
+      "Screw extractor",
+      "Combination wrench"
+    ],
+    "correct": 2,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1044,
+    "text": "Which tool is used to smooth the surface of wood by removing thin shavings?",
+    "options": [
+      "Chisel",
+      "Plane",
+      "File",
+      "Sandpaper block"
+    ],
+    "correct": 1,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1051,
+    "text": "Gears A, B, C are arranged in a triangle (circular arrangement). If A is moved, can the gears turn?",
+    "options": [
+      "Yes, they turn freely",
+      "No, they are locked and cannot turn",
+      "Only one can turn",
+      "Can't tell"
+    ],
+    "correct": 1,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 1280,
+    "text": "If PALAM could be given the code number 43, what code number can be given to SANTACRUZ?",
+    "options": [
+      "123",
+      "85",
+      "120",
+      "125"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1287,
+    "text": "The number of words that can be formed from the letters of the word 'ARTICLE' so that vowels occupy even places is:",
+    "options": [
+      "36",
+      "144",
+      "574",
+      "754"
+    ],
+    "correct": 1,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1293,
+    "text": "In a certain code: 'Delhi is capital' = '7 5 9', 'capital are beautiful' = '3 6 9', 'Delhi is beautiful' = '6 7 5', 'Patna also capital' = '9 2 4'. What is the code for 'beautiful'?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "9"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1403,
+    "text": "In a certain code, 'CLOUD' is written as 'EKRSG'. How is 'SIGHT' written in that code?",
+    "options": [
+      "UGHHT",
+      "UHJFW",
+      "WFJGV",
+      "WGJHV"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1404,
+    "text": "If Z = 52 and ACT = 48, then BAT will be equal to:",
+    "options": [
+      "39",
+      "41",
+      "44",
+      "46"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1408,
+    "text": "A certain code \"564\" means \"all the best\", \"736\" means \"best of luck\" and \"423\" means \"all is luck\". Which of the following is the code for \"luck\"?",
+    "options": [
+      "6",
+      "4",
+      "3",
+      "7"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.68,
+      "8": 0.45,
+      "9": 0.24,
+      "10": 0.12,
+      "11": 0.06,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1416,
+    "text": "Sanjay has three daughters, and each daughter has a brother. How many male members are there in the family?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "correct": 3,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.88,
+      "7": 0.76,
+      "8": 0.55,
+      "9": 0.32,
+      "10": 0.16,
+      "11": 0.08,
+      "12": 0.04
+    }
+  },
+  {
+    "id": 1418,
+    "text": "What comes at last place in the series: R, U, X, A, D, ?",
+    "options": [
+      "E",
+      "F",
+      "G",
+      "H"
+    ],
+    "correct": 2,
+    "dimension": "Verbal Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1429,
+    "text": "The missing term of the series 11, 10, __, 27, 66.5, 198.5 is:",
+    "options": [
+      "14",
+      "16",
+      "21",
+      "19"
+    ],
+    "correct": 0,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1474,
+    "text": "From the following data, the index number for 2022 taking 2021 as base (simple aggregative method): A: 80\u2192120, B: 220\u2192200, C: 300\u2192400",
+    "options": [
+      "100",
+      "120",
+      "108",
+      "190"
+    ],
+    "correct": 1,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 11",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.95,
+      "11": 0.68,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 1476,
+    "text": "The index number for 2012 (base 2011) using simple average of price relative method: A:115\u2192125, B:108\u2192117, C:95\u2192108, D:80\u219295, E:90\u219295",
+    "options": [
+      "112",
+      "117",
+      "120",
+      "111"
+    ],
+    "correct": 3,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 11",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.95,
+      "11": 0.68,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 1477,
+    "text": "For 10 pairs of observations, number of concurrent deviations was found to be 4. The coefficient of concurrent deviation is:",
+    "options": [
+      "\u221a0.2",
+      "1/3",
+      "-1/3",
+      "-\u221a0.2"
+    ],
+    "correct": 3,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 11",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.95,
+      "11": 0.68,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 1484,
+    "text": "Your car is parked in front of the bank. If you take the first possible left then the first right, you are in front of the:",
+    "options": [
+      "hotel",
+      "city hospital",
+      "courthouse",
+      "museum"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "k.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1486,
+    "text": "Traveling east then south from city hall, which landmark do you reach first?",
+    "options": [
+      "Fire station",
+      "Bank",
+      "Springfield High School",
+      "Shopping mall"
+    ],
+    "correct": 3,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "k.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1487,
+    "text": "From Springfield Jr. High going south on the same street, then west on the first street, you are on:",
+    "options": [
+      "Rogers Ave.",
+      "Eaton Ave.",
+      "Eastern Ave.",
+      "Gorgas Ave."
+    ],
+    "correct": 0,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "k.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1489,
+    "text": "Exiting the bank onto Eastern Ave., which direction do you turn to head toward the shopping mall?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "k.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1494,
+    "text": "If you removed bulb 1 and closed the switch, how many bulbs would go on?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "Can't tell"
+    ],
+    "correct": 0,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "id1494.webp",
+    "mandatory": true
+  },
+  
+  {
+    "id": 1586,
+    "text": "The flat pattern on the left can be folded into which solid shape shown?",
+    "options": [
+      "Shape A",
+      "Shape B",
+      "Shape C",
+      "Shape D",
+      "Shape E"
+    ],
+    "correct": 0,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "64.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1607,
+    "text": "Will this bulb light up (bulb connected with battery, switch open, extra wire)?",
+    "options": [
+      "Yes",
+      "No",
+      "Can't tell"
+    ],
+    "correct": 1,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "85.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1613,
+    "text": "How many gears will turn faster than gear G? (Gears A\u2013F have 10 teeth, gear G has 13 teeth)",
+    "options": [
+      "None \u2013 they each turn at a different speed",
+      "2",
+      "4",
+      "6",
+      "Can't tell"
+    ],
+    "correct": 3,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "91.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1615,
+    "text": "Which gear will turn fastest? (Small gear next to large gear in each pair)",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Can't tell"
+    ],
+    "correct": 0,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "92.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1617,
+    "text": "If the top gear turns 100 times a second, how many other gears will turn at the same speed?",
+    "options": [
+      "6",
+      "7",
+      "9",
+      "11",
+      "Can't tell"
+    ],
+    "correct": 0,
+    "dimension": "Mechanical Reasoning",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "94.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1659,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D"
+    ],
+    "correct": 1,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "124.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1660,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "125.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1661,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D",
+      "Pattern E"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "126.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1662,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D",
+      "Pattern E"
+    ],
+    "correct": 1,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "127.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1663,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D"
+    ],
+    "correct": 3,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "128.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1664,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "129.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1665,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D",
+      "Pattern E"
+    ],
+    "correct": 0,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "130.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1666,
+    "text": "Which flat net/pattern can be folded to form the rectangular box shown?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D",
+      "Pattern E"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "131.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1709,
+    "text": "Matching Shapes: The image contains various labeled shapes (A\u2013W) Which TWO labeled shapes are an exact match for each other (same shape, same size, same orientation)?",
+    "options": [
+      "Q and L",
+      "Q and V",
+      "K and B",
+      "K and J",
+      "X and G",
+      "X and A",
+      "O and T",
+      "D and C"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    },
+    "image": "156.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1728,
+    "text": "Which set of pieces can be assembled to form the target shape?",
+    "options": [
+      "Set A",
+      "Set B",
+      "Set C",
+      "Set D"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    },
+    "image": "181.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1729,
+    "text": "Which set of pieces can be assembled to form the target shape?",
+    "options": [
+      "Set A",
+      "Set B",
+      "Set C",
+      "Set D"
+    ],
+    "correct": 3,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    },
+    "image": "182.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1730,
+    "text": "Which set of pieces can be assembled to form the target shape?",
+    "options": [
+      "Set A",
+      "Set B",
+      "Set C",
+      "Set D"
+    ],
+    "correct": 1,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    },
+    "image": "183.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1778,
+    "text": "Which pair of answer choices is identical?",
+    "options": [
+      "Pair A",
+      "Pair B",
+      "Pair C",
+      "Pair D",
+      "Pair E"
+    ],
+    "correct": 0,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    },
+    "image": "216.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1786,
+    "text": "A folded paper is punched as shown. Which pattern results when it is unfolded?",
+    "options": [
+      "Pattern A",
+      "Pattern B",
+      "Pattern C",
+      "Pattern D",
+      "Pattern E"
+    ],
+    "correct": 2,
+    "dimension": "Spatial Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    },
+    "image": "234.webp",
+    "mandatory": true
+  },
+  {
+    "id": 1820,
+    "text": "If A381 is divisible by 11, find the value of the smallest natural number A.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "correct": 2,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 1821,
+    "text": "If 381A is divisible by 9, find the value of the smallest natural number A.",
+    "options": [
+      "5",
+      "4",
+      "7",
+      "6"
+    ],
+    "correct": 3,
+    "dimension": "Numerical Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 1956,
+    "text": "If in a certain code, ALMIRAH is written as BNPMWGO, which letter group would be written as DNRWLUA?",
+    "options": [
+      "TOGSOLC",
+      "CLOSGOT",
+      "COSGOLT",
+      "TOGCLOS"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.76,
+      "7": 0.55,
+      "8": 0.32,
+      "9": 0.16,
+      "10": 0.08,
+      "11": 0.04,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1965,
+    "text": "Select the option that is related to the fifth number in the same way as the second is related to the first and the fourth to the third: 3:30 :: 4:68 :: 5:?",
+    "options": [
+      "145",
+      "130",
+      "126",
+      "175"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1966,
+    "text": "Observe the following table:\nA=5, B=2, C=3, D=10, Result=40; A=4, B=3, C=5, D=8, Result=52; A=6, B=4, C=2, D=12, Result=?",
+    "options": [
+      "50",
+      "25",
+      "48",
+      "72"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1967,
+    "text": "From the given options, select the group of letters to complete: S_ _KB_FH_BSF_K_SF_ _B",
+    "options": [
+      "FHSKBHHK",
+      "FHSKHKHK",
+      "FHSKHBHK",
+      "FHSHKBHK"
+    ],
+    "correct": 2,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1971,
+    "text": "Instructions:\nWOODLAND : ZIRXOUQX :: PERIODIC : SYUCRXLW :: MAGAZINE : ?",
+    "options": [
+      "NUCAQOLP",
+      "LOWXSYCZ",
+      "HERDWBMO",
+      "PUJUCCQY"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1974,
+    "text": "Each letter in a word is assigned a specific number: N=1, D=2, I=3, O=4, I=5, T=6, C=7, A=8, R=9. Which arrangement represents a meaningful word? (TRADITION)",
+    "options": [
+      "2,5,1,8,7,3,4,6,9",
+      "5,1,2,3,7,8,6,4,9",
+      "4,9,1,3,2,8,6,7,5",
+      "5,2,1,9,8,4,3,7,6"
+    ],
+    "correct": 1,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 6",
+    "difficulty": {
+      "6": 0.55,
+      "7": 0.32,
+      "8": 0.16,
+      "9": 0.08,
+      "10": 0.04,
+      "11": 0.03,
+      "12": 0.02
+    }
+  },
+  {
+    "id": 1975,
+    "text": "Two row-column matrices are described in text. In Matrix I, G is at row 1 column 1 and D is at row 4 column 2. In Matrix II, U is at row 5 column 7 and N is at row 7 column 5. From these matrices, find the row-column codes for DUNG in sequence.",
+    "options": [
+      "31, 76, 24, 96",
+      "20, 59, 41, 88",
+      "33, 68, 31, 75",
+      "42, 57, 75, 11"
+    ],
+    "correct": 3,
+    "dimension": "Abstract Reasoning",
+    "concept-taught": "Class 7",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.68,
+      "8": 0.45,
+      "9": 0.24,
+      "10": 0.12,
+      "11": 0.06,
+      "12": 0.03
+    }
+  },
+  {
+    "id": 1987,
+    "text": "Choose the appropriate synonym of the given word: Erroneous",
+    "options": [
+      "Vital",
+      "Fallacious",
+      "Right",
+      "Accurate"
+    ],
+    "correct": 1,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1995,
+    "text": "Choose the option that contains the homonym of 'address' (as in postal address): 'Please make sure to write your full home address on the application form.'",
+    "options": [
+      "After living in the city for ten years, Sarah had to notify the post office that her permanent address was changing.",
+      "The delivery driver called me because he was having trouble finding my address on the GPS.",
+      "Millions of people tuned in to watch the president's televised address regarding the new economic policies.",
+      "The celebrity requested that her residential address be kept private and removed from all public search directories."
+    ],
+    "correct": 2,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1996,
+    "text": "Choose the one which gives the meaning of the given idiom or phrase: 'To strain at a gnat and swallow a camel'",
+    "options": [
+      "To be extremely physically weak",
+      "To have a very large appetite",
+      "To fuss over trifles while ignoring big issues",
+      "To be meticulous in everything"
+    ],
+    "correct": 2,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.55,
+      "9": 0.34,
+      "10": 0.18,
+      "11": 0.09,
+      "12": 0.05
+    }
+  },
+  {
+    "id": 1998,
+    "text": "Select the correct indirect form: '\"Call the first witness,\" said the judge.'",
+    "options": [
+      "The judge asked if they would call the first witness.",
+      "The judge said that the first witness should be called.",
+      "The judge ordered that called the first witness.",
+      "The judge ordered them to call the first witness."
+    ],
+    "correct": 3,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 8",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.68,
+      "9": 0.46,
+      "10": 0.28,
+      "11": 0.15,
+      "12": 0.08
+    }
+  },
+  {
+    "id": 2007,
+    "text": "How is the character of Lady Catherine de Bourgh employed in 'Pride and Prejudice' as a criticism of society?",
+    "options": [
+      "She is purely comic relief and has no other significance.",
+      "She represents the struggle of the working class against the landed gentry.",
+      "She symbolizes ideal maternal love and wisdom.",
+      "She represents social tyranny and class prejudice."
+    ],
+    "correct": 3,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 11",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.95,
+      "11": 0.68,
+      "12": 0.46
+    }
+  },
+  {
+    "id": 2008,
+    "text": "What is the key event that marks a turning point in making Elizabeth change her view of Darcy in 'Pride and Prejudice'?",
+    "options": [
+      "Rejection of Mr. Collins's Proposal",
+      "Lydia's elopement with Wickham",
+      "The Netherfield Ball",
+      "Her visit to Pemberley and her reception of Darcy's letter"
+    ],
+    "correct": 3,
+    "dimension": "Language Aptitude",
+    "concept-taught": "Class 11",
+    "difficulty": {
+      "6": 0.95,
+      "7": 0.95,
+      "8": 0.95,
+      "9": 0.95,
+      "10": 0.95,
+      "11": 0.68,
+      "12": 0.46
+    }
+  }
+]}
